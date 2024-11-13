@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taskly</string>
+    <string name="task_list_title">Task List</string>
+    <string name="task_form_title">Task Form</string>
+    <string name="back_button">Back</string>
+    <string name="create_new_task">Create New Task</string>
+</resources>

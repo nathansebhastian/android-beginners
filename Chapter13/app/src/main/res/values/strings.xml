@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Taskly</string>
+    <string name="task_list_title">Task List</string>
+    <string name="task_form_title">Task Form</string>
+    <string name="back_button">Back</string>
+    <string name="create_new_task">Create New Task</string>
+    <string name="no_task_description">No task yet.\nTap \'+\' to add one.</string>
+    <string name="required_fields">*required field</string>
+    <string name="save_task">Save Task</string>
+    <string name="task_title_req">Title*</string>
+    <string name="task_notes">Notes\n</string>
+    <string name="task_is_completed">Is Completed</string>
+</resources>
